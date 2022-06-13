@@ -26,7 +26,7 @@ font:
   italic:
     family: JetBrains Mono
     style: Italic
-  size: 10 
+  size: 12 
   offset:
     x: 0
     y: 0 
